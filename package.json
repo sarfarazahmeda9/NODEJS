@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "echo \"# NODEJS\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/sarfarazahmeda9/NODEJS.git git push -u origin main",
+  "main": "node ./06_SyncAsync/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node ./06_SyncAsync/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
